@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Soda And Softy</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <integer-array name="regular_soda_icons">
+        <item>@drawable/ic_plain_soda</item>
+        <item>@drawable/ic_apple_soda</item>
+        <item>@drawable/ic_blueberry_soda</item>
+        <item>@drawable/ic_cherry_soda</item>
+        <item>@drawable/ic_chocolate_soda</item>
+        <item>@drawable/ic_cola_soda</item>
+        <item>@drawable/ic_fruit_beer</item>
+        <item>@drawable/ic_jamfal_soda</item>
+        <item>@drawable/ic_kalakhatta_soda</item>
+        <item>@drawable/ic_lemon_soda</item>
+        <item>@drawable/ic_litchi_soda</item>
+        <item>@drawable/ic_masala_soda</item>
+        <item>@drawable/ic_orange_soda</item>
+        <item>@drawable/ic_pineapple_soda</item>
+        <item>@drawable/ic_pudina_soda</item>
+        <item>@drawable/ic_strawberry_soda</item>
+        <item>@drawable/ic_variyali_soda</item>
+    </integer-array>
+
+    <integer-array name="shing_soda_icons">
+        <item>@drawable/ic_shing_beer</item>
+        <item>@drawable/ic_shing_cola</item>
+        <item>@drawable/ic_shing_mango</item>
+        <item>@drawable/ic_shing_masala</item>
+        <item>@drawable/ic_shing_strawberry</item>
+        <item>@drawable/ic_shing_vimto</item>
+    </integer-array>
+
+    <integer-array name="softy_icons">
+        <item>@drawable/ic_butterscotch_softy</item>
+        <item>@drawable/ic_chocolate_softy</item>
+        <item>@drawable/ic_mango_softy</item>
+        <item>@drawable/ic_mix_softy</item>
+        <item>@drawable/ic_pineapple_softy</item>
+        <item>@drawable/ic_vanila_softy</item>
+    </integer-array>
+
+    <integer-array name="flavour_with_ice_cream">
+        <item>@drawable/ic_lichy_cream</item>
+        <item>@drawable/ic_mango_cream</item>
+        <item>@drawable/ic_pineapple_cream</item>
+        <item>@drawable/ic_strawberry_cream</item>
+    </integer-array>
+
+    <integer-array name="juice">
+        <item>@drawable/ic_grapes_juice</item>
+        <item>@drawable/ic_orange_juice</item>
+        <item>@drawable/ic_pineapple_juice</item>
+        <item>@drawable/ic_strawberry_juice</item>
+        <item>@drawable/ic_watermelon_juice</item>
+    </integer-array>
+
+</resources>
