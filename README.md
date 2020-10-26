@@ -3,6 +3,8 @@
 
 :collision:Change branch to get source code of **Owner** App.
 
+# Demo
+![gif demo](https://user-images.githubusercontent.com/54389203/97183941-5c082a80-17c4-11eb-8d64-573ebe801433.gif)
 
 ## All necessary files for this project :point_down:
 | Name                   | Link                                                                             |
@@ -17,7 +19,7 @@
 | -----------------------|:-------------------------------------------------------------------------------------:|
 | Kotlin                 | [Tap here](https://kotlinlang.org/)                                                   |
 | Material Design        | [Tap here](https://material.io/develop/android)                                       |
-| Firebase               | [Tap here](https://firebase.google.com/docs/android/setup)                            |
+| Firebase (Firestore & Authentication | [Tap here](https://firebase.google.com/docs/android/setup)                            |
 | Dagger Hilt            | [Tap here](https://dagger.dev/hilt/)                                                  |
 | Navigation components  | [Tap here](https://developer.android.com/guide/navigation/navigation-getting-started) |
 | LiveData               | [Tap here](https://developer.android.com/topic/libraries/architecture/livedata)       |
