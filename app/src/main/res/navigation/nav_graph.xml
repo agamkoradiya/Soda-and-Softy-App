@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/scanQrFragment">
+
+    <fragment
+        android:id="@+id/scanQrFragment"
+        android:name="com.example.sodaandsoftyowner.ui.fragment.ScanQrFragment"
+        android:label="fragment_scan_qr"
+        tools:layout="@layout/fragment_scan_qr" />
+</navigation>
