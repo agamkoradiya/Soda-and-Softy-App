@@ -4,7 +4,7 @@
 :collision:Change branch to get source code of **Owner** App.
 
 # Demo
-![gif demo](https://user-images.githubusercontent.com/54389203/97183941-5c082a80-17c4-11eb-8d64-573ebe801433.gif)
+![gif demo](https://user-images.githubusercontent.com/54389203/97185594-4267e280-17c6-11eb-8607-24a58fd31b83.gif)
 
 ## All necessary files for this project :point_down:
 | Name                   | Link                                                                             |
@@ -37,4 +37,4 @@
 ![All in one Firestore](https://user-images.githubusercontent.com/54389203/97153532-a83d7580-1798-11eb-9241-8c5355b5e7df.png)
 
 ## Contribution
-Awesome :heart_eyes: If you would like to contribute you're most welcome! :pray:
+Awesome :heart_eyes: If you would like to contribute you're most welcome!  :yellow_heart:
